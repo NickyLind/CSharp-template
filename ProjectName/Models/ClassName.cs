@@ -1,6 +1,6 @@
 // In this class file, make sure the namespace matches the name of your project (the equivalent of ProjectName). For instance:
 
-namespace ProjectName
+namespace ProjectName.Models
 {
   public class ClassName
   {
