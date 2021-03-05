@@ -20,8 +20,9 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _Select the green 'Code' button above the repository and copy the HHTPS link_
 * _In your terminal, find the directory you want to place the [INSERT PROJECT HERE] directory in_
 * _In your terminal, use the git command `$git clone [paste HTTPS here]`_
-* _Navigate to the ProjectName.Tests directory and run the command `$dotnet restore` to install packages for running tests_
 * _Open in Visual Studio Code or another editor_
+* _You will need to restore the dependencies and project specific tools by running the `$dotnet restore` command in the ProjectName directory, as well as build the project using the `$dotnet build` command in the same directory_
+* _Navigate to the ProjectName.Tests directory and run the command `$dotnet restore` to install packages for running tests_
 * _In the same ProjectName.Tests directory you can run the command `$dotnet test` to run the tests for the program in the terminal_
 * _To see results of the tests you will need to scroll up in the terminal to find the relevant testing information_
 * _If all tests are passing, the relevant information will be colored green, otherwise failing tests will return in red coloring_
