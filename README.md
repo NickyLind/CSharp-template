@@ -9,6 +9,7 @@
 * _.NET5.0_
 * _C#_
 * _Visual Studio Code_
+* _ASP NET Core MVC_
 
 ## Description
 

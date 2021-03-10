@@ -6,3 +6,9 @@
   </PropertyGroup>
 
 </Project>
+<!-- need to restore these packages 
+$ dotnet add package Microsoft.EntityFrameworkCore -v 5.0.0
+$ dotnet add package Pomelo.EntityFrameworkCore.MySql -v 5.0.0-alpha.2
+$ dotnet add package Microsoft.EntityFrameworkCore.Proxies -v 5.0.0
+and remove
+$ dotnet remove package MySqlConnector-->
