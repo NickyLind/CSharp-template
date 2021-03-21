@@ -1,9 +1,20 @@
-// In this class file, make sure the namespace matches the name of your project (the equivalent of ProjectName). For instance:
+// example of Item.cs Model 
 
-namespace ProjectName.Models
-{
-  public class ClassName
-  {
-//     properties, constructors, methods, etc. go here
-  }
-}
+// using System.Collections.Generic;
+
+// namespace ToDoList.Models
+// {
+//     public class Item
+//     {
+//         public Item()
+//         {
+//             this.Categories = new HashSet<CategoryItem>();
+//         }
+
+//         public int ItemId { get; set; }
+//         public string Description { get; set; }
+//         public virtual ApplicationUser User { get; set; } //new line
+
+//         public ICollection<CategoryItem> Categories { get;}
+//     }
+// }

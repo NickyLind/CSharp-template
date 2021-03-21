@@ -16,6 +16,7 @@
 * _Bootstrap_
 * _CSS_
 * _ASP.NET Razor_
+* _Identity_
 
 ## Description
 

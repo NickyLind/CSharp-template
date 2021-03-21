@@ -1,9 +1,9 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ProgramName
+namespace ProjectName
 {
-  public class Program
+  public class Project
   {
     public static void Main(string[] args)
     {
